@@ -280,6 +280,7 @@ The current version has several deliberate limitations:
 Potential extensions include:
 
 - add more public-domain chess material
+- convert the chess notation to modern algebraic notation
 - convert the diagrams in each book to FEN notation. This would mean that some of the position commentary chunks could potentially be used in the corpus.
 - convert descriptive notation to algebraic notation
 - add reranking
